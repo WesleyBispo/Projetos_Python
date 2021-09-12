@@ -13,6 +13,7 @@ Esses são alguns dos meus objetivos com esse repositório.<br>
 ## Projetos atuais 
 - Análise de dados (básico)
 - Atendimento ao cliente (básico)
+- Jogo de advinhação (2 versões básicas)
 
 
 **Se quiser entra em contato comigo basta clicar em [E-mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl&zx=ucxlg2jl4h37#inbox)**
